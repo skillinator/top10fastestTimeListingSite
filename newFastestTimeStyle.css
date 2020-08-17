@@ -1,0 +1,90 @@
+body{
+	text-align: center;
+}
+
+.placesFirst{
+	color: #ffc800;
+	font-size: 22px;
+}
+
+.placesSecond{
+	color: #c5cccd;
+	font-size: 20px;
+}
+
+.placesThird{
+	color: #a49300;
+	font-size: 18px;
+}
+
+.places{
+	color: #00e5ff;
+	font-size: 16px;
+}
+
+.deleteButton{
+	background-color: #fff;
+	color: #c00000;
+	border: 2px solid #c00000;
+	height: 35px;
+	width: 100px;
+}
+
+.deleteButton:hover{
+	background-color: #c00000;
+	color: #fff;
+}
+
+.addTimeButton{
+	background-color: #fff;
+	color: #0fdc00;
+	border: 2px solid #0fdc00;
+	height: 38px;
+	width: 90px;
+}
+
+.addTimeButton:hover{
+	background-color: #0fdc00;
+	color: #fff;
+}
+
+header{
+	height: 55px;
+}
+
+.timeInput{
+	height: 27px;
+	width: 160px;
+	border: 3px solid #777;
+	color: #777;
+}
+
+.nameInput{
+	height: 27px;
+	width: 160px;
+	border: 3px solid #323ab3;
+	color: #323ab3;
+}
+
+.echoNameOffInput{
+	height: 38px;
+	width: 220px;
+	border: 2px solid #dcdcdd;
+	border-radius: 10px;
+	border-bottom: 3px solid #d0d0d0;
+	color: #929292;
+	background-color: #fff;
+}
+
+.refreshButton{
+	height: 40px;
+	width: 83px;
+	border: 2px solid #777;
+	background-color: #fff;
+	background-image: url("SuchButtonTop10.png");
+	border-radius: 10px;
+}
+
+.refreshButton:hover{
+	background-image: url("SuchButtonTop10HoverImg.png");
+}
